@@ -1,7 +1,7 @@
 ## Smart Wells Documentation
 ============================
 
-#How to setup
+### How to setup
 ...
 
 #
